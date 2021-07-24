@@ -1,0 +1,641 @@
+hotel_no,hotel_name,district,date,d_risk,total_infected,near_district,no_of_people,risk_level,final_risk
+1,Navro,Matara,4/5/2021,1,102,1,100,0,1
+1,Navro,Matara,5/5/2021,0,41,1,200,1,0
+1,Navro,Matara,6/5/2021,0,17,1,300,1,0
+1,Navro,Matara,7/5/2021,0,84,1,150,0,0
+1,Navro,Matara,8/5/2021,1,488,1,190,1,1
+1,Navro,Matara,9/5/2021,2,829,1,250,1,2
+1,Navro,Matara,10/5/2021,1,360,1,400,2,2
+1,Navro,Matara,11/5/2021,2,580,1,50,0,2
+1,Navro,Matara,12/5/2021,1,240,1,90,0,1
+1,Navro,Matara,13/5/2021,2,690,1,260,1,2
+2,The Kingsbury Hotel,Colombo,4/5/2021,1,430,1,500,2,2
+2,The Kingsbury Hotel,Colombo,5/5/2021,1,319,1,450,2,2
+2,The Kingsbury Hotel,Colombo,6/5/2021,1,347,1,170,1,1
+2,The Kingsbury Hotel,Colombo,7/5/2021,1,250,1,324,2,2
+2,The Kingsbury Hotel,Colombo,8/5/2021,1,403,1,350,2,2
+2,The Kingsbury Hotel,Colombo,9/5/2021,1,334,1,532,2,2
+2,The Kingsbury Hotel,Colombo,10/5/2021,1,310,1,120,0,1
+2,The Kingsbury Hotel,Colombo,11/5/2021,2,1511,1,325,2,2
+2,The Kingsbury Hotel,Colombo,12/5/2021,2,3758,1,591,2,2
+2,The Kingsbury Hotel,Colombo,13/5/2021,2,4158,1,474,2,2
+3,Riverside Hotel,Gampaha,4/5/2021,1,327,1,550,2,2
+3,Riverside Hotel,Gampaha,5/5/2021,1,187,1,340,2,2
+3,Riverside Hotel,Gampaha,6/5/2021,0,95,1,135,0,0
+3,Riverside Hotel,Gampaha,7/5/2021,2,1187,1,529,2,2
+3,Riverside Hotel,Gampaha,8/5/2021,2,3040,1,407,2,2
+3,Riverside Hotel,Gampaha,9/5/2021,2,3463,1,337,2,2
+3,Riverside Hotel,Gampaha,10/5/2021,2,2458,1,449,2,2
+3,Riverside Hotel,Gampaha,11/5/2021,2,3103,1,441,2,2
+3,Riverside Hotel,Gampaha,12/5/2021,2,2654,1,285,1,2
+3,Riverside Hotel,Gampaha,13/5/2021,2,2742,1,582,2,2
+4,Anantara Resort,Kalutara,4/5/2021,1,126,0,427,1,1
+4,Anantara Resort,Kalutara,5/5/2021,0,93,0,473,1,0
+4,Anantara Resort,Kalutara,6/5/2021,0,41,0,563,2,1
+4,Anantara Resort,Kalutara,7/5/2021,2,634,0,268,1,2
+4,Anantara Resort,Kalutara,8/5/2021,2,8017,0,514,2,2
+4,Anantara Resort,Kalutara,9/5/2021,2,2407,0,332,1,2
+4,Anantara Resort,Kalutara,10/5/2021,2,3675,0,414,1,2
+4,Anantara Resort,Kalutara,11/5/2021,2,3176,0,516,2,2
+4,Anantara Resort,Kalutara,12/5/2021,2,5753,0,290,1,2
+4,Anantara Resort,Kalutara,13/5/2021,2,4980,0,560,2,2
+5,Kandy Riverside Villa,Kandy,4/5/2021,0,44,0,290,1,0
+5,Kandy Riverside Villa,Kandy,5/5/2021,0,22,0,410,1,0
+5,Kandy Riverside Villa,Kandy,6/5/2021,0,39,0,290,1,0
+5,Kandy Riverside Villa,Kandy,7/5/2021,1,286,0,550,2,2
+5,Kandy Riverside Villa,Kandy,8/5/2021,2,609,0,340,1,2
+5,Kandy Riverside Villa,Kandy,9/5/2021,2,900,0,529,2,2
+5,Kandy Riverside Villa,Kandy,10/5/2021,2,990,0,582,2,2
+5,Kandy Riverside Villa,Kandy,11/5/2021,2,659,0,473,1,2
+5,Kandy Riverside Villa,Kandy,12/5/2021,2,1035,0,70,0,2
+5,Kandy Riverside Villa,Kandy,13/5/2021,2,1330,0,582,2,2
+6,Kandyan Reach,Kurunagala,4/5/2021,2,4940,1,550,2,2
+6,Kandyan Reach,Kurunagala,5/5/2021,2,5020,1,340,2,2
+6,Kandyan Reach,Kurunagala,6/5/2021,2,5171,1,200,1,2
+6,Kandyan Reach,Kurunagala,7/5/2021,2,5235,1,529,2,2
+6,Kandyan Reach,Kurunagala,8/5/2021,2,5416,1,340,2,2
+6,Kandyan Reach,Kurunagala,9/5/2021,2,5659,1,49,0,2
+6,Kandyan Reach,Kurunagala,10/5/2021,2,5708,1,290,1,2
+6,Kandyan Reach,Kurunagala,11/5/2021,2,5857,1,473,2,2
+6,Kandyan Reach,Kurunagala,12/5/2021,2,6067,1,100,0,2
+6,Kandyan Reach,Kurunagala,13/5/2021,2,6306,1,285,1,2
+7,Jetwing Lighthouse,Galle,4/5/2021,2,3099,1,353,2,2
+7,Jetwing Lighthouse,Galle,5/5/2021,2,3225,1,340,2,2
+7,Jetwing Lighthouse,Galle,6/5/2021,2,3294,1,622,2,2
+7,Jetwing Lighthouse,Galle,7/5/2021,2,3406,1,410,2,2
+7,Jetwing Lighthouse,Galle,8/5/2021,2,3464,1,290,1,2
+7,Jetwing Lighthouse,Galle,9/5/2021,2,3567,1,473,2,2
+7,Jetwing Lighthouse,Galle,10/5/2021,2,3661,1,529,2,2
+7,Jetwing Lighthouse,Galle,11/5/2021,2,3779,1,340,2,2
+7,Jetwing Lighthouse,Galle,12/5/2021,2,3907,1,642,2,2
+7,Jetwing Lighthouse,Galle,13/5/2021,2,3941,1,345,2,2
+8,Serene Villa Ratnapura,Ratnapura,4/5/2021,2,3321,1,285,1,2
+8,Serene Villa Ratnapura,Ratnapura,5/5/2021,2,3365,1,100,0,2
+8,Serene Villa Ratnapura,Ratnapura,6/5/2021,2,3372,1,410,2,2
+8,Serene Villa Ratnapura,Ratnapura,7/5/2021,2,3402,1,290,1,2
+8,Serene Villa Ratnapura,Ratnapura,8/5/2021,2,3481,1,353,2,2
+8,Serene Villa Ratnapura,Ratnapura,9/5/2021,2,3570,1,200,1,2
+8,Serene Villa Ratnapura,Ratnapura,10/5/2021,2,3908,1,473,2,2
+8,Serene Villa Ratnapura,Ratnapura,11/5/2021,2,4069,1,340,2,2
+8,Serene Villa Ratnapura,Ratnapura,12/5/2021,2,4137,1,582,2,2
+8,Serene Villa Ratnapura,Ratnapura,13/5/2021,2,4174,1,550,2,2
+9,Ganga Addara,Matara,4/5/2021,1,102,0,410,1,1
+9,Ganga Addara,Matara,5/5/2021,0,41,0,290,1,0
+9,Ganga Addara,Matara,6/5/2021,0,17,0,250,0,0
+9,Ganga Addara,Matara,7/5/2021,0,84,0,450,1,0
+9,Ganga Addara,Matara,8/5/2021,1,488,0,236,0,1
+9,Ganga Addara,Matara,9/5/2021,2,829,0,285,1,2
+9,Ganga Addara,Matara,10/5/2021,1,360,0,198,0,1
+9,Ganga Addara,Matara,11/5/2021,2,580,0,100,0,2
+9,Ganga Addara,Matara,12/5/2021,1,240,0,200,0,1
+9,Ganga Addara,Matara,13/5/2021,2,690,0,285,1,2
+10,Amaranthé Bay Resort,Trincomalee,4/5/2021,0,20,1,400,2,1
+10,Amaranthé Bay Resort,Trincomalee,5/5/2021,0,20,1,432,2,1
+10,Amaranthé Bay Resort,Trincomalee,6/5/2021,0,0,1,190,1,1
+10,Amaranthé Bay Resort,Trincomalee,7/5/2021,1,125,1,370,2,2
+10,Amaranthé Bay Resort,Trincomalee,8/5/2021,0,42,1,209,1,0
+10,Amaranthé Bay Resort,Trincomalee,9/5/2021,1,377,1,450,2,2
+10,Amaranthé Bay Resort,Trincomalee,10/5/2021,1,460,1,245,1,1
+10,Amaranthé Bay Resort,Trincomalee,11/5/2021,1,160,1,655,2,2
+10,Amaranthé Bay Resort,Trincomalee,12/5/2021,1,180,1,388,2,2
+10,Amaranthé Bay Resort,Trincomalee,13/5/2021,1,290,1,353,2,2
+11,Hotel Elaine,Monaragala,4/5/2021,2,1073,1,200,1,2
+11,Hotel Elaine,Monaragala,5/5/2021,2,1109,1,473,2,2
+11,Hotel Elaine,Monaragala,6/5/2021,2,1137,1,77,0,2
+11,Hotel Elaine,Monaragala,7/5/2021,2,1147,1,582,2,2
+11,Hotel Elaine,Monaragala,8/5/2021,2,1207,1,550,2,2
+11,Hotel Elaine,Monaragala,9/5/2021,2,1238,1,40,0,2
+11,Hotel Elaine,Monaragala,10/5/2021,2,1257,1,290,1,2
+11,Hotel Elaine,Monaragala,11/5/2021,2,1358,1,285,1,2
+11,Hotel Elaine,Monaragala,12/5/2021,2,1399,1,353,2,2
+11,Hotel Elaine,Monaragala,13/5/2021,2,1512,1,340,2,2
+12,Hotel Summer Haven,Polonnaruwa,4/5/2021,1,338,0,622,2,2
+12,Hotel Summer Haven,Polonnaruwa,5/5/2021,1,353,0,410,1,1
+12,Hotel Summer Haven,Polonnaruwa,6/5/2021,1,388,0,290,1,1
+12,Hotel Summer Haven,Polonnaruwa,7/5/2021,1,446,0,446,1,1
+12,Hotel Summer Haven,Polonnaruwa,8/5/2021,2,501,0,278,1,2
+12,Hotel Summer Haven,Polonnaruwa,9/5/2021,1,458,0,598,2,2
+12,Hotel Summer Haven,Polonnaruwa,10/5/2021,1,459,0,381,1,1
+12,Hotel Summer Haven,Polonnaruwa,11/5/2021,1,496,0,374,1,1
+12,Hotel Summer Haven,Polonnaruwa,12/5/2021,2,542,0,652,2,2
+12,Hotel Summer Haven,Polonnaruwa,13/5/2021,2,544,0,387,1,2
+13,Villa Amma Erna,Galle,4/5/2021,2,3099,0,545,2,2
+13,Villa Amma Erna,Galle,5/5/2021,2,3225,0,645,2,2
+13,Villa Amma Erna,Galle,6/5/2021,2,3294,0,375,1,2
+13,Villa Amma Erna,Galle,7/5/2021,2,3406,0,150,0,2
+13,Villa Amma Erna,Galle,8/5/2021,2,3464,0,190,0,2
+13,Villa Amma Erna,Galle,9/5/2021,2,3567,0,250,0,2
+13,Villa Amma Erna,Galle,10/5/2021,2,3661,0,400,1,2
+13,Villa Amma Erna,Galle,11/5/2021,2,3779,0,50,0,2
+13,Villa Amma Erna,Galle,12/5/2021,2,3907,0,90,0,2
+13,Villa Amma Erna,Galle,13/5/2021,2,3941,0,260,1,2
+14,Forever City Hotel,Colombo,4/5/2021,1,430,1,500,2,2
+14,Forever City Hotel,Colombo,5/5/2021,1,319,1,450,2,2
+14,Forever City Hotel,Colombo,6/5/2021,1,347,1,170,1,1
+14,Forever City Hotel,Colombo,7/5/2021,1,250,1,324,2,2
+14,Forever City Hotel,Colombo,8/5/2021,1,403,1,350,2,2
+14,Forever City Hotel,Colombo,9/5/2021,1,334,1,532,2,2
+14,Forever City Hotel,Colombo,10/5/2021,1,310,1,245,1,1
+14,Forever City Hotel,Colombo,11/5/2021,2,1511,1,80,0,2
+14,Forever City Hotel,Colombo,12/5/2021,2,3758,1,388,2,2
+14,Forever City Hotel,Colombo,13/5/2021,2,4158,1,353,2,2
+15,Pearl Cliff Hotel,Matara,4/5/2021,2,102,1,200,1,2
+15,Pearl Cliff Hotel,Matara,5/5/2021,1,41,1,473,2,2
+15,Pearl Cliff Hotel,Matara,6/5/2021,1,17,1,340,2,2
+15,Pearl Cliff Hotel,Matara,7/5/2021,1,84,1,582,2,2
+15,Pearl Cliff Hotel,Matara,8/5/2021,1,488,1,550,2,2
+15,Pearl Cliff Hotel,Matara,9/5/2021,2,829,1,410,2,2
+15,Pearl Cliff Hotel,Matara,10/5/2021,1,360,1,290,1,1
+15,Pearl Cliff Hotel,Matara,11/5/2021,2,580,1,450,2,2
+15,Pearl Cliff Hotel,Matara,12/5/2021,1,240,1,290,1,1
+15,Pearl Cliff Hotel,Matara,13/5/2021,2,690,1,632,2,2
+16,Araliya Green Hills Hotel,Nuwara Eliya,4/5/2021,2,1763,1,463,2,2
+16,Araliya Green Hills Hotel,Nuwara Eliya,5/5/2021,2,1841,1,514,2,2
+16,Araliya Green Hills Hotel,Nuwara Eliya,6/5/2021,2,1894,1,268,1,2
+16,Araliya Green Hills Hotel,Nuwara Eliya,7/5/2021,2,1901,1,59,0,2
+16,Araliya Green Hills Hotel,Nuwara Eliya,8/5/2021,2,1933,1,560,2,2
+16,Araliya Green Hills Hotel,Nuwara Eliya,9/5/2021,2,1938,1,265,1,2
+16,Araliya Green Hills Hotel,Nuwara Eliya,10/5/2021,2,1986,1,655,2,2
+16,Araliya Green Hills Hotel,Nuwara Eliya,11/5/2021,2,2006,1,250,1,2
+16,Araliya Green Hills Hotel,Nuwara Eliya,12/5/2021,2,2067,1,440,2,2
+16,Araliya Green Hills Hotel,Nuwara Eliya,13/5/2021,2,2083,1,330,2,2
+17,Thambu Illam,Jaffna,4/5/2021,2,1457,1,100,0,2
+17,Thambu Illam,Jaffna,5/5/2021,2,1469,1,220,1,2
+17,Thambu Illam,Jaffna,6/5/2021,2,1492,1,645,2,2
+17,Thambu Illam,Jaffna,7/5/2021,2,1525,1,375,2,2
+17,Thambu Illam,Jaffna,8/5/2021,2,1545,1,150,0,2
+17,Thambu Illam,Jaffna,9/5/2021,2,1562,1,190,1,2
+17,Thambu Illam,Jaffna,10/5/2021,2,1575,1,250,1,2
+17,Thambu Illam,Jaffna,11/5/2021,2,1594,1,400,2,2
+17,Thambu Illam,Jaffna,12/5/2021,2,1646,1,50,0,2
+17,Thambu Illam,Jaffna,13/5/2021,2,1649,1,90,0,2
+18,EKHO Ella,Badulla,4/5/2021,2,1695,1,260,1,2
+18,EKHO Ella,Badulla,5/5/2021,2,1753,1,70,0,2
+18,EKHO Ella,Badulla,6/5/2021,2,1776,1,514,2,2
+18,EKHO Ella,Badulla,7/5/2021,2,1803,1,541,2,2
+18,EKHO Ella,Badulla,8/5/2021,2,1863,1,500,2,2
+18,EKHO Ella,Badulla,9/5/2021,2,1879,1,97,0,2
+18,EKHO Ella,Badulla,10/5/2021,2,1922,1,532,2,2
+18,EKHO Ella,Badulla,11/5/2021,2,1947,1,344,2,2
+18,EKHO Ella,Badulla,12/5/2021,2,1953,1,543,2,2
+18,EKHO Ella,Badulla,13/5/2021,2,2117,1,550,2,2
+19,VILLA OSHINI,Kalutara,4/5/2021,1,126,0,410,1,1
+19,VILLA OSHINI,Kalutara,5/5/2021,0,93,0,290,1,0
+19,VILLA OSHINI,Kalutara,6/5/2021,0,41,0,245,0,0
+19,VILLA OSHINI,Kalutara,7/5/2021,2,634,0,500,1,2
+19,VILLA OSHINI,Kalutara,8/5/2021,2,8017,0,478,1,2
+19,VILLA OSHINI,Kalutara,9/5/2021,2,2407,0,514,2,2
+19,VILLA OSHINI,Kalutara,10/5/2021,2,3675,0,567,2,2
+19,VILLA OSHINI,Kalutara,11/5/2021,2,3176,0,490,1,2
+19,VILLA OSHINI,Kalutara,12/5/2021,2,5753,0,486,1,2
+19,VILLA OSHINI,Kalutara,13/5/2021,2,4980,0,285,1,2
+20,Mandarina Colombo,Colombo,4/5/2021,1,430,1,390,2,2
+20,Mandarina Colombo,Colombo,5/5/2021,1,319,1,582,2,2
+20,Mandarina Colombo,Colombo,6/5/2021,1,347,1,490,2,2
+20,Mandarina Colombo,Colombo,7/5/2021,1,250,1,550,2,2
+20,Mandarina Colombo,Colombo,8/5/2021,1,403,1,410,2,2
+20,Mandarina Colombo,Colombo,9/5/2021,1,334,1,290,1,1
+20,Mandarina Colombo,Colombo,10/5/2021,1,310,1,120,0,1
+20,Mandarina Colombo,Colombo,11/5/2021,2,1511,1,385,2,2
+20,Mandarina Colombo,Colombo,12/5/2021,2,3758,1,622,2,2
+20,Mandarina Colombo,Colombo,13/5/2021,2,4158,1,410,2,2
+21,Solis Matara,Matara,4/5/2021,1,102,1,500,2,2
+21,Solis Matara,Matara,5/5/2021,0,41,1,622,2,1
+21,Solis Matara,Matara,6/5/2021,0,17,1,327,2,1
+21,Solis Matara,Matara,7/5/2021,0,84,1,582,2,1
+21,Solis Matara,Matara,8/5/2021,1,488,1,256,1,1
+21,Solis Matara,Matara,9/5/2021,2,829,1,140,0,2
+21,Solis Matara,Matara,10/5/2021,1,360,1,622,2,2
+21,Solis Matara,Matara,11/5/2021,2,580,1,388,2,2
+21,Solis Matara,Matara,12/5/2021,1,240,1,514,2,2
+21,Solis Matara,Matara,13/5/2021,2,690,1,298,1,2
+22,Jim's Farm Villas,Matale,4/5/2021,2,1754,0,428,1,2
+22,Jim's Farm Villas,Matale,5/5/2021,2,1804,0,390,1,2
+22,Jim's Farm Villas,Matale,6/5/2021,2,1919,0,622,2,2
+22,Jim's Farm Villas,Matale,7/5/2021,2,2014,0,410,1,2
+22,Jim's Farm Villas,Matale,8/5/2021,2,2030,0,560,2,2
+22,Jim's Farm Villas,Matale,9/5/2021,2,2036,0,265,1,2
+22,Jim's Farm Villas,Matale,10/5/2021,2,2103,0,655,2,2
+22,Jim's Farm Villas,Matale,11/5/2021,2,2169,0,250,0,2
+22,Jim's Farm Villas,Matale,12/5/2021,2,2308,0,440,1,2
+22,Jim's Farm Villas,Matale,13/5/2021,2,2450,0,330,1,2
+23,Shadow Mask Bungalow,Nuwara Eliya,4/5/2021,0,34,0,388,1,0
+23,Shadow Mask Bungalow,Nuwara Eliya,5/5/2021,0,33,0,490,1,0
+23,Shadow Mask Bungalow,Nuwara Eliya,6/5/2021,0,10,0,612,2,1
+23,Shadow Mask Bungalow,Nuwara Eliya,7/5/2021,1,137,0,295,1,1
+23,Shadow Mask Bungalow,Nuwara Eliya,8/5/2021,1,237,0,345,1,1
+23,Shadow Mask Bungalow,Nuwara Eliya,9/5/2021,1,492,0,324,1,1
+23,Shadow Mask Bungalow,Nuwara Eliya,10/5/2021,2,502,0,350,1,2
+23,Shadow Mask Bungalow,Nuwara Eliya,11/5/2021,1,400,0,532,2,2
+23,Shadow Mask Bungalow,Nuwara Eliya,12/5/2021,1,350,0,245,1,1
+23,Shadow Mask Bungalow,Nuwara Eliya,13/5/2021,1,101,0,655,2,2
+24,Villa Pinnawala,Kegalle,4/5/2021,0,32,1,388,2,1
+24,Villa Pinnawala,Kegalle,5/5/2021,0,32,1,690,2,1
+24,Villa Pinnawala,Kegalle,6/5/2021,0,5,1,588,2,1
+24,Villa Pinnawala,Kegalle,7/5/2021,0,33,1,514,2,1
+24,Villa Pinnawala,Kegalle,8/5/2021,0,68,1,399,2,1
+24,Villa Pinnawala,Kegalle,9/5/2021,1,389,1,277,1,1
+24,Villa Pinnawala,Kegalle,10/5/2021,1,490,1,492,2,2
+24,Villa Pinnawala,Kegalle,11/5/2021,1,499,1,478,2,2
+24,Villa Pinnawala,Kegalle,12/5/2021,1,290,1,80,0,1
+24,Villa Pinnawala,Kegalle,13/5/2021,2,501,1,500,2,2
+25,Fox Resorts,Jaffna,4/5/2021,0,48,0,70,0,0
+25,Fox Resorts,Jaffna,5/5/2021,1,289,0,170,0,1
+25,Fox Resorts,Jaffna,6/5/2021,1,267,0,582,2,2
+25,Fox Resorts,Jaffna,7/5/2021,0,72,0,367,1,0
+25,Fox Resorts,Jaffna,8/5/2021,1,195,0,490,1,1
+25,Fox Resorts,Jaffna,9/5/2021,2,546,0,385,1,2
+25,Fox Resorts,Jaffna,10/5/2021,2,600,0,622,2,2
+25,Fox Resorts,Jaffna,11/5/2021,1,499,0,410,1,1
+25,Fox Resorts,Jaffna,12/5/2021,2,501,0,500,1,2
+25,Fox Resorts,Jaffna,13/5/2021,2,670,0,622,2,2
+26,HUDDLE,Nuwara Eliya,4/5/2021,0,34,1,100,0,0
+26,HUDDLE,Nuwara Eliya,5/5/2021,0,33,1,220,1,0
+26,HUDDLE,Nuwara Eliya,6/5/2021,0,10,1,645,2,1
+26,HUDDLE,Nuwara Eliya,7/5/2021,1,137,1,375,2,2
+26,HUDDLE,Nuwara Eliya,8/5/2021,1,237,1,150,0,1
+26,HUDDLE,Nuwara Eliya,9/5/2021,1,492,1,190,1,1
+26,HUDDLE,Nuwara Eliya,10/5/2021,2,502,1,250,1,2
+26,HUDDLE,Nuwara Eliya,11/5/2021,1,400,1,400,2,2
+26,HUDDLE,Nuwara Eliya,12/5/2021,1,350,1,582,2,2
+26,HUDDLE,Nuwara Eliya,13/5/2021,1,101,1,335,2,2
+27,Sandalu Eco Resorts,Hambantota,4/5/2021,0,25,0,220,0,0
+27,Sandalu Eco Resorts,Hambantota,5/5/2021,0,38,0,645,2,1
+27,Sandalu Eco Resorts,Hambantota,6/5/2021,0,22,0,490,1,0
+27,Sandalu Eco Resorts,Hambantota,7/5/2021,1,105,0,612,2,2
+27,Sandalu Eco Resorts,Hambantota,8/5/2021,1,166,0,295,1,1
+27,Sandalu Eco Resorts,Hambantota,9/5/2021,1,311,0,388,1,1
+27,Sandalu Eco Resorts,Hambantota,10/5/2021,1,400,0,490,1,1
+27,Sandalu Eco Resorts,Hambantota,11/5/2021,0,99,0,612,2,1
+27,Sandalu Eco Resorts,Hambantota,12/5/2021,0,69,0,295,1,0
+27,Sandalu Eco Resorts,Hambantota,13/5/2021,1,280,0,345,1,1
+28,Trinco Blu by Cinnamon,Trincomalee,4/5/2021,0,20,1,324,2,1
+28,Trinco Blu by Cinnamon,Trincomalee,5/5/2021,0,20,1,632,2,1
+28,Trinco Blu by Cinnamon,Trincomalee,6/5/2021,0,0,1,463,2,1
+28,Trinco Blu by Cinnamon,Trincomalee,7/5/2021,1,125,1,514,2,2
+28,Trinco Blu by Cinnamon,Trincomalee,8/5/2021,0,42,1,380,2,1
+28,Trinco Blu by Cinnamon,Trincomalee,9/5/2021,1,377,1,560,2,2
+28,Trinco Blu by Cinnamon,Trincomalee,10/5/2021,1,460,1,265,1,1
+28,Trinco Blu by Cinnamon,Trincomalee,11/5/2021,1,160,1,655,2,2
+28,Trinco Blu by Cinnamon,Trincomalee,12/5/2021,1,180,1,285,1,1
+28,Trinco Blu by Cinnamon,Trincomalee,13/5/2021,1,290,1,390,2,2
+29,Barathi Star Hotel & Hall,Kilinochchi,4/5/2021,0,9,1,582,2,1
+29,Barathi Star Hotel & Hall,Kilinochchi,5/5/2021,0,2,1,490,2,1
+29,Barathi Star Hotel & Hall,Kilinochchi,6/5/2021,0,8,1,550,2,1
+29,Barathi Star Hotel & Hall,Kilinochchi,7/5/2021,0,2,1,410,2,1
+29,Barathi Star Hotel & Hall,Kilinochchi,8/5/2021,0,79,1,400,2,1
+29,Barathi Star Hotel & Hall,Kilinochchi,9/5/2021,0,60,1,50,0,0
+29,Barathi Star Hotel & Hall,Kilinochchi,10/5/2021,1,102,1,90,0,1
+29,Barathi Star Hotel & Hall,Kilinochchi,11/5/2021,0,88,1,260,1,0
+29,Barathi Star Hotel & Hall,Kilinochchi,12/5/2021,1,120,1,500,2,2
+29,Barathi Star Hotel & Hall,Kilinochchi,13/5/2021,0,85,1,450,2,1
+30,The Palmyrah House,Mannar,4/5/2021,0,8,0,590,2,1
+30,The Palmyrah House,Mannar,5/5/2021,0,8,0,295,1,0
+30,The Palmyrah House,Mannar,6/5/2021,0,5,0,345,1,0
+30,The Palmyrah House,Mannar,7/5/2021,0,3,0,622,2,1
+30,The Palmyrah House,Mannar,8/5/2021,0,24,0,410,1,0
+30,The Palmyrah House,Mannar,9/5/2021,0,57,0,290,1,0
+30,The Palmyrah House,Mannar,10/5/2021,0,48,0,473,1,0
+30,The Palmyrah House,Mannar,11/5/2021,0,66,0,529,2,1
+30,The Palmyrah House,Mannar,12/5/2021,0,61,0,340,1,0
+30,The Palmyrah House,Mannar,13/5/2021,0,72,0,642,2,1
+31,Lora Kandy,Kandy,4/5/2021,0,44,0,290,1,0
+31,Lora Kandy,Kandy,5/5/2021,0,22,0,410,1,0
+31,Lora Kandy,Kandy,6/5/2021,0,39,0,290,1,0
+31,Lora Kandy,Kandy,7/5/2021,1,286,0,550,2,2
+31,Lora Kandy,Kandy,8/5/2021,2,609,0,340,1,2
+31,Lora Kandy,Kandy,9/5/2021,2,900,0,529,2,2
+31,Lora Kandy,Kandy,10/5/2021,2,990,0,582,2,2
+31,Lora Kandy,Kandy,11/5/2021,2,659,0,473,1,2
+31,Lora Kandy,Kandy,12/5/2021,2,1035,0,70,0,2
+31,Lora Kandy,Kandy,13/5/2021,2,1330,0,582,2,2
+32,Beach Hotel ,Kurunagala,4/5/2021,2,4940,1,550,2,2
+32,Beach Hotel ,Kurunagala,5/5/2021,2,5020,1,340,2,2
+32,Beach Hotel ,Kurunagala,6/5/2021,2,5171,1,200,1,2
+32,Beach Hotel ,Kurunagala,7/5/2021,2,5235,1,529,2,2
+32,Beach Hotel ,Kurunagala,8/5/2021,2,5416,1,340,2,2
+32,Beach Hotel ,Kurunagala,9/5/2021,2,5659,1,49,0,2
+32,Beach Hotel ,Kurunagala,10/5/2021,2,5708,1,290,1,2
+32,Beach Hotel ,Kurunagala,11/5/2021,2,5857,1,473,2,2
+32,Beach Hotel ,Kurunagala,12/5/2021,2,6067,1,100,0,2
+32,Beach Hotel ,Kurunagala,13/5/2021,2,6306,1,285,1,2
+33,Lighthouse,Galle,4/5/2021,2,3099,1,353,2,2
+33,Lighthouse,Galle,5/5/2021,2,3225,1,340,2,2
+33,Lighthouse,Galle,6/5/2021,2,3294,1,622,2,2
+33,Lighthouse,Galle,7/5/2021,2,3406,1,410,2,2
+33,Lighthouse,Galle,8/5/2021,2,3464,1,290,1,2
+33,Lighthouse,Galle,9/5/2021,2,3567,1,473,2,2
+33,Lighthouse,Galle,10/5/2021,2,3661,1,529,2,2
+33,Lighthouse,Galle,11/5/2021,2,3779,1,340,2,2
+33,Lighthouse,Galle,12/5/2021,2,3907,1,642,2,2
+33,Lighthouse,Galle,13/5/2021,2,3941,1,345,2,2
+34,Hela Vilaa,Ratnapura,4/5/2021,2,3321,1,285,1,2
+34,Hela Vilaa,Ratnapura,5/5/2021,2,3365,1,100,0,2
+34,Hela Vilaa,Ratnapura,6/5/2021,2,3372,1,410,2,2
+34,Hela Vilaa,Ratnapura,7/5/2021,2,3402,1,290,1,2
+34,Hela Vilaa,Ratnapura,8/5/2021,2,3481,1,353,2,2
+34,Hela Vilaa,Ratnapura,9/5/2021,2,3570,1,200,1,2
+34,Hela Vilaa,Ratnapura,10/5/2021,2,3908,1,473,2,2
+34,Hela Vilaa,Ratnapura,11/5/2021,2,4069,1,340,2,2
+34,Hela Vilaa,Ratnapura,12/5/2021,2,4137,1,582,2,2
+34,Hela Vilaa,Ratnapura,13/5/2021,2,4174,1,550,2,2
+35,Shanaya,Matara,4/5/2021,1,102,0,410,1,1
+35,Shanaya,Matara,5/5/2021,0,41,0,290,1,0
+35,Shanaya,Matara,6/5/2021,0,17,0,250,0,0
+35,Shanaya,Matara,7/5/2021,0,84,0,450,1,0
+35,Shanaya,Matara,8/5/2021,1,488,0,236,0,1
+35,Shanaya,Matara,9/5/2021,2,829,0,285,1,2
+35,Shanaya,Matara,10/5/2021,1,360,0,198,0,1
+35,Shanaya,Matara,11/5/2021,2,580,0,100,0,2
+35,Shanaya,Matara,12/5/2021,1,240,0,200,0,1
+35,Shanaya,Matara,13/5/2021,2,690,0,285,1,2
+36,Tecla Villa,Trincomalee,4/5/2021,0,20,1,400,2,1
+36,Tecla Villa,Trincomalee,5/5/2021,0,20,1,432,2,1
+36,Tecla Villa,Trincomalee,6/5/2021,0,0,1,190,1,1
+36,Tecla Villa,Trincomalee,7/5/2021,1,125,1,370,2,2
+36,Tecla Villa,Trincomalee,8/5/2021,0,42,1,209,1,0
+36,Tecla Villa,Trincomalee,9/5/2021,1,377,1,450,2,2
+36,Tecla Villa,Trincomalee,10/5/2021,1,460,1,245,1,1
+36,Tecla Villa,Trincomalee,11/5/2021,1,160,1,655,2,2
+36,Tecla Villa,Trincomalee,12/5/2021,1,180,1,388,2,2
+36,Tecla Villa,Trincomalee,13/5/2021,1,290,1,353,2,2
+37,Hotel Emaa,Monaragala,4/5/2021,2,1073,1,200,1,2
+37,Hotel Emaa,Monaragala,5/5/2021,2,1109,1,473,2,2
+37,Hotel Emaa,Monaragala,6/5/2021,2,1137,1,77,0,2
+37,Hotel Emaa,Monaragala,7/5/2021,2,1147,1,582,2,2
+37,Hotel Emaa,Monaragala,8/5/2021,2,1207,1,550,2,2
+37,Hotel Emaa,Monaragala,9/5/2021,2,1238,1,40,0,2
+37,Hotel Emaa,Monaragala,10/5/2021,2,1257,1,290,1,2
+37,Hotel Emaa,Monaragala,11/5/2021,2,1358,1,285,1,2
+37,Hotel Emaa,Monaragala,12/5/2021,2,1399,1,353,2,2
+37,Hotel Emaa,Monaragala,13/5/2021,2,1512,1,340,2,2
+38,Villa Sewi,Polonnaruwa,4/5/2021,1,338,0,622,2,2
+38,Villa Sewi,Polonnaruwa,5/5/2021,1,353,0,410,1,1
+38,Villa Sewi,Polonnaruwa,6/5/2021,1,388,0,290,1,1
+38,Villa Sewi,Polonnaruwa,7/5/2021,1,446,0,446,1,1
+38,Villa Sewi,Polonnaruwa,8/5/2021,2,501,0,278,1,2
+38,Villa Sewi,Polonnaruwa,9/5/2021,1,458,0,598,2,2
+38,Villa Sewi,Polonnaruwa,10/5/2021,1,459,0,381,1,1
+38,Villa Sewi,Polonnaruwa,11/5/2021,1,496,0,374,1,1
+38,Villa Sewi,Polonnaruwa,12/5/2021,2,542,0,652,2,2
+38,Villa Sewi,Polonnaruwa,13/5/2021,2,544,0,387,1,2
+39,Lalitha Hotel,Galle,4/5/2021,2,3099,0,545,2,2
+39,Lalitha Hotel,Galle,5/5/2021,2,3225,0,645,2,2
+39,Lalitha Hotel,Galle,6/5/2021,2,3294,0,375,1,2
+39,Lalitha Hotel,Galle,7/5/2021,2,3406,0,150,0,2
+39,Lalitha Hotel,Galle,8/5/2021,2,3464,0,190,0,2
+39,Lalitha Hotel,Galle,9/5/2021,2,3567,0,250,0,2
+39,Lalitha Hotel,Galle,10/5/2021,2,3661,0,400,1,2
+39,Lalitha Hotel,Galle,11/5/2021,2,3779,0,50,0,2
+39,Lalitha Hotel,Galle,12/5/2021,2,3907,0,90,0,2
+39,Lalitha Hotel,Galle,13/5/2021,2,3941,0,260,1,2
+40,Hesi Hotel,Colombo,4/5/2021,1,430,1,500,2,2
+40,Hesi Hotel,Colombo,5/5/2021,1,319,1,450,2,2
+40,Hesi Hotel,Colombo,6/5/2021,1,347,1,170,1,1
+40,Hesi Hotel,Colombo,7/5/2021,1,250,1,324,2,2
+40,Hesi Hotel,Colombo,8/5/2021,1,403,1,350,2,2
+40,Hesi Hotel,Colombo,9/5/2021,1,334,1,532,2,2
+40,Hesi Hotel,Colombo,10/5/2021,1,310,1,245,1,1
+40,Hesi Hotel,Colombo,11/5/2021,2,1511,1,80,0,2
+40,Hesi Hotel,Colombo,12/5/2021,2,3758,1,388,2,2
+40,Hesi Hotel,Colombo,13/5/2021,2,4158,1,353,2,2
+41,Thambu Illam,Jaffna,4/5/2021,2,1457,1,100,0,2
+41,Thambu Illam,Jaffna,5/5/2021,2,1469,1,220,1,2
+41,Thambu Illam,Jaffna,6/5/2021,2,1492,1,645,2,2
+41,Thambu Illam,Jaffna,7/5/2021,2,1525,1,375,2,2
+41,Thambu Illam,Jaffna,8/5/2021,2,1545,1,150,0,2
+41,Thambu Illam,Jaffna,9/5/2021,2,1562,1,190,1,2
+41,Thambu Illam,Jaffna,10/5/2021,2,1575,1,250,1,2
+41,Thambu Illam,Jaffna,11/5/2021,2,1594,1,400,2,2
+41,Thambu Illam,Jaffna,12/5/2021,2,1646,1,50,0,2
+41,Thambu Illam,Jaffna,13/5/2021,2,1649,1,90,0,2
+42,EKHO Ella,Badulla,4/5/2021,2,1695,1,260,1,2
+42,EKHO Ella,Badulla,5/5/2021,2,1753,1,70,0,2
+42,EKHO Ella,Badulla,6/5/2021,2,1776,1,514,2,2
+42,EKHO Ella,Badulla,7/5/2021,2,1803,1,541,2,2
+42,EKHO Ella,Badulla,8/5/2021,2,1863,1,500,2,2
+42,EKHO Ella,Badulla,9/5/2021,2,1879,1,97,0,2
+42,EKHO Ella,Badulla,10/5/2021,2,1922,1,532,2,2
+42,EKHO Ella,Badulla,11/5/2021,2,1947,1,344,2,2
+42,EKHO Ella,Badulla,12/5/2021,2,1953,1,543,2,2
+42,EKHO Ella,Badulla,13/5/2021,2,2117,1,550,2,2
+43,VILLA OSHINI,Kalutara,4/5/2021,1,126,0,410,1,1
+43,VILLA OSHINI,Kalutara,5/5/2021,0,93,0,290,1,0
+43,VILLA OSHINI,Kalutara,6/5/2021,0,41,0,245,0,0
+43,VILLA OSHINI,Kalutara,7/5/2021,2,634,0,500,1,2
+43,VILLA OSHINI,Kalutara,8/5/2021,2,8017,0,478,1,2
+43,VILLA OSHINI,Kalutara,9/5/2021,2,2407,0,514,2,2
+43,VILLA OSHINI,Kalutara,10/5/2021,2,3675,0,567,2,2
+43,VILLA OSHINI,Kalutara,11/5/2021,2,3176,0,490,1,2
+43,VILLA OSHINI,Kalutara,12/5/2021,2,5753,0,486,1,2
+43,VILLA OSHINI,Kalutara,13/5/2021,2,4980,0,285,1,2
+44,Mandarina Colombo,Colombo,4/5/2021,1,430,1,390,2,2
+44,Mandarina Colombo,Colombo,5/5/2021,1,319,1,582,2,2
+44,Mandarina Colombo,Colombo,6/5/2021,1,347,1,490,2,2
+44,Mandarina Colombo,Colombo,7/5/2021,1,250,1,550,2,2
+44,Mandarina Colombo,Colombo,8/5/2021,1,403,1,410,2,2
+44,Mandarina Colombo,Colombo,9/5/2021,1,334,1,290,1,1
+44,Mandarina Colombo,Colombo,10/5/2021,1,310,1,120,0,1
+44,Mandarina Colombo,Colombo,11/5/2021,2,1511,1,385,2,2
+44,Mandarina Colombo,Colombo,12/5/2021,2,3758,1,622,2,2
+44,Mandarina Colombo,Colombo,13/5/2021,2,4158,1,410,2,2
+45,Solis Matara,Matara,4/5/2021,1,102,1,500,2,2
+45,Solis Matara,Matara,5/5/2021,0,41,1,622,2,1
+45,Solis Matara,Matara,6/5/2021,0,17,1,327,2,1
+45,Solis Matara,Matara,7/5/2021,0,84,1,582,2,1
+45,Solis Matara,Matara,8/5/2021,1,488,1,256,1,1
+45,Solis Matara,Matara,9/5/2021,2,829,1,140,0,2
+45,Solis Matara,Matara,10/5/2021,1,360,1,622,2,2
+45,Solis Matara,Matara,11/5/2021,2,580,1,388,2,2
+45,Solis Matara,Matara,12/5/2021,1,240,1,514,2,2
+45,Solis Matara,Matara,13/5/2021,2,690,1,298,1,2
+46,Jim's Farm Villas,Matale,4/5/2021,2,1754,0,428,1,2
+46,Jim's Farm Villas,Matale,5/5/2021,2,1804,0,390,1,2
+46,Jim's Farm Villas,Matale,6/5/2021,2,1919,0,622,2,2
+46,Jim's Farm Villas,Matale,7/5/2021,2,2014,0,410,1,2
+46,Jim's Farm Villas,Matale,8/5/2021,2,2030,0,560,2,2
+46,Jim's Farm Villas,Matale,9/5/2021,2,2036,0,265,1,2
+46,Jim's Farm Villas,Matale,10/5/2021,2,2103,0,655,2,2
+46,Jim's Farm Villas,Matale,11/5/2021,2,2169,0,250,0,2
+46,Jim's Farm Villas,Matale,12/5/2021,2,2308,0,440,1,2
+46,Jim's Farm Villas,Matale,13/5/2021,2,2450,0,330,1,2
+47,Shadow Mask Bungalow,Nuwara Eliya,4/5/2021,0,34,0,388,1,0
+47,Shadow Mask Bungalow,Nuwara Eliya,5/5/2021,0,33,0,490,1,0
+47,Shadow Mask Bungalow,Nuwara Eliya,6/5/2021,0,10,0,612,2,1
+47,Shadow Mask Bungalow,Nuwara Eliya,7/5/2021,1,137,0,295,1,1
+47,Shadow Mask Bungalow,Nuwara Eliya,8/5/2021,1,237,0,345,1,1
+47,Shadow Mask Bungalow,Nuwara Eliya,9/5/2021,1,492,0,324,1,1
+47,Shadow Mask Bungalow,Nuwara Eliya,10/5/2021,2,502,0,350,1,2
+47,Shadow Mask Bungalow,Nuwara Eliya,11/5/2021,1,400,0,532,2,2
+47,Shadow Mask Bungalow,Nuwara Eliya,12/5/2021,1,350,0,245,1,1
+47,Shadow Mask Bungalow,Nuwara Eliya,13/5/2021,1,101,0,655,2,2
+48,Villa Pinnawala,Kegalle,4/5/2021,0,32,1,388,2,1
+48,Villa Pinnawala,Kegalle,5/5/2021,0,32,1,690,2,1
+48,Villa Pinnawala,Kegalle,6/5/2021,0,5,1,588,2,1
+48,Villa Pinnawala,Kegalle,7/5/2021,0,33,1,514,2,1
+48,Villa Pinnawala,Kegalle,8/5/2021,0,68,1,399,2,1
+48,Villa Pinnawala,Kegalle,9/5/2021,1,389,1,277,1,1
+48,Villa Pinnawala,Kegalle,10/5/2021,1,490,1,492,2,2
+48,Villa Pinnawala,Kegalle,11/5/2021,1,499,1,478,2,2
+48,Villa Pinnawala,Kegalle,12/5/2021,1,290,1,80,0,1
+48,Villa Pinnawala,Kegalle,13/5/2021,2,501,1,500,2,2
+49,Fox Resorts,Jaffna,4/5/2021,0,48,0,70,0,0
+49,Fox Resorts,Jaffna,5/5/2021,1,289,0,170,0,1
+49,Fox Resorts,Jaffna,6/5/2021,1,267,0,582,2,2
+49,Fox Resorts,Jaffna,7/5/2021,0,72,0,367,1,0
+49,Fox Resorts,Jaffna,8/5/2021,1,195,0,490,1,1
+49,Fox Resorts,Jaffna,9/5/2021,2,546,0,385,1,2
+49,Fox Resorts,Jaffna,10/5/2021,2,600,0,622,2,2
+49,Fox Resorts,Jaffna,11/5/2021,1,499,0,410,1,1
+49,Fox Resorts,Jaffna,12/5/2021,2,501,0,500,1,2
+49,Fox Resorts,Jaffna,13/5/2021,2,670,0,622,2,2
+50,HUDDLE,Nuwara Eliya,4/5/2021,0,34,1,100,0,0
+50,HUDDLE,Nuwara Eliya,5/5/2021,0,33,1,220,1,0
+50,HUDDLE,Nuwara Eliya,6/5/2021,0,10,1,645,2,1
+50,HUDDLE,Nuwara Eliya,7/5/2021,1,137,1,375,2,2
+50,HUDDLE,Nuwara Eliya,8/5/2021,1,237,1,150,0,1
+50,HUDDLE,Nuwara Eliya,9/5/2021,1,492,1,190,1,1
+50,HUDDLE,Nuwara Eliya,10/5/2021,2,502,1,250,1,2
+50,HUDDLE,Nuwara Eliya,11/5/2021,1,400,1,400,2,2
+50,HUDDLE,Nuwara Eliya,12/5/2021,1,350,1,582,2,2
+50,HUDDLE,Nuwara Eliya,13/5/2021,1,101,1,335,2,2
+51,Sandalu Eco Resorts,Hambantota,4/5/2021,0,25,0,220,0,0
+51,Sandalu Eco Resorts,Hambantota,5/5/2021,0,38,0,645,2,1
+51,Sandalu Eco Resorts,Hambantota,6/5/2021,0,22,0,490,1,0
+51,Sandalu Eco Resorts,Hambantota,7/5/2021,1,105,0,612,2,2
+51,Sandalu Eco Resorts,Hambantota,8/5/2021,1,166,0,295,1,1
+51,Sandalu Eco Resorts,Hambantota,9/5/2021,1,311,0,388,1,1
+51,Sandalu Eco Resorts,Hambantota,10/5/2021,1,400,0,490,1,1
+51,Sandalu Eco Resorts,Hambantota,11/5/2021,0,99,0,612,2,1
+51,Sandalu Eco Resorts,Hambantota,12/5/2021,0,69,0,295,1,0
+51,Sandalu Eco Resorts,Hambantota,13/5/2021,1,280,0,345,1,1
+52,Trinco Blu by Cinnamon,Trincomalee,4/5/2021,0,20,1,324,2,1
+52,Trinco Blu by Cinnamon,Trincomalee,5/5/2021,0,20,1,632,2,1
+52,Trinco Blu by Cinnamon,Trincomalee,6/5/2021,0,0,1,463,2,1
+52,Trinco Blu by Cinnamon,Trincomalee,7/5/2021,1,125,1,514,2,2
+52,Trinco Blu by Cinnamon,Trincomalee,8/5/2021,0,42,1,380,2,1
+52,Trinco Blu by Cinnamon,Trincomalee,9/5/2021,1,377,1,560,2,2
+52,Trinco Blu by Cinnamon,Trincomalee,10/5/2021,1,460,1,265,1,1
+52,Trinco Blu by Cinnamon,Trincomalee,11/5/2021,1,160,1,655,2,2
+52,Trinco Blu by Cinnamon,Trincomalee,12/5/2021,1,180,1,285,1,1
+52,Trinco Blu by Cinnamon,Trincomalee,13/5/2021,1,290,1,390,2,2
+53,Barathi Star Hotel & Hall,Kilinochchi,4/5/2021,0,9,1,582,2,1
+53,Barathi Star Hotel & Hall,Kilinochchi,5/5/2021,0,2,1,490,2,1
+53,Barathi Star Hotel & Hall,Kilinochchi,6/5/2021,0,8,1,550,2,1
+53,Barathi Star Hotel & Hall,Kilinochchi,7/5/2021,0,2,1,410,2,1
+53,Barathi Star Hotel & Hall,Kilinochchi,8/5/2021,0,79,1,400,2,1
+53,Barathi Star Hotel & Hall,Kilinochchi,9/5/2021,0,60,1,50,0,0
+53,Barathi Star Hotel & Hall,Kilinochchi,10/5/2021,1,102,1,90,0,1
+53,Barathi Star Hotel & Hall,Kilinochchi,11/5/2021,0,88,1,260,1,0
+53,Barathi Star Hotel & Hall,Kilinochchi,12/5/2021,1,120,1,500,2,2
+53,Barathi Star Hotel & Hall,Kilinochchi,13/5/2021,0,85,1,450,2,1
+54,The Palmyrah House,Mannar,4/5/2021,0,8,0,590,2,1
+54,The Palmyrah House,Mannar,5/5/2021,0,8,0,295,1,0
+54,The Palmyrah House,Mannar,6/5/2021,0,5,0,345,1,0
+54,The Palmyrah House,Mannar,7/5/2021,0,3,0,622,2,1
+54,The Palmyrah House,Mannar,8/5/2021,0,24,0,410,1,0
+54,The Palmyrah House,Mannar,9/5/2021,0,57,0,290,1,0
+54,The Palmyrah House,Mannar,10/5/2021,0,48,0,473,1,0
+54,The Palmyrah House,Mannar,11/5/2021,0,66,0,529,2,1
+54,The Palmyrah House,Mannar,12/5/2021,0,61,0,340,1,0
+54,The Palmyrah House,Mannar,13/5/2021,0,72,0,642,2,1
+55,Lora Kandy,Kandy,4/5/2021,0,44,0,290,1,0
+55,Lora Kandy,Kandy,5/5/2021,0,22,0,410,1,0
+55,Lora Kandy,Kandy,6/5/2021,0,39,0,290,1,0
+55,Lora Kandy,Kandy,7/5/2021,1,286,0,550,2,2
+55,Lora Kandy,Kandy,8/5/2021,2,609,0,340,1,2
+55,Lora Kandy,Kandy,9/5/2021,2,900,0,529,2,2
+55,Lora Kandy,Kandy,10/5/2021,2,990,0,582,2,2
+55,Lora Kandy,Kandy,11/5/2021,2,659,0,473,1,2
+55,Lora Kandy,Kandy,12/5/2021,2,1035,0,70,0,2
+55,Lora Kandy,Kandy,13/5/2021,2,1330,0,582,2,2
+56,Beach Hotel ,Kurunagala,4/5/2021,2,4940,1,550,2,2
+56,Beach Hotel ,Kurunagala,5/5/2021,2,5020,1,340,2,2
+56,Beach Hotel ,Kurunagala,6/5/2021,2,5171,1,200,1,2
+56,Beach Hotel ,Kurunagala,7/5/2021,2,5235,1,529,2,2
+56,Beach Hotel ,Kurunagala,8/5/2021,2,5416,1,340,2,2
+56,Beach Hotel ,Kurunagala,9/5/2021,2,5659,1,49,0,2
+56,Beach Hotel ,Kurunagala,10/5/2021,2,5708,1,290,1,2
+56,Beach Hotel ,Kurunagala,11/5/2021,2,5857,1,473,2,2
+56,Beach Hotel ,Kurunagala,12/5/2021,2,6067,1,100,0,2
+56,Beach Hotel ,Kurunagala,13/5/2021,2,6306,1,285,1,2
+57,Lighthouse,Galle,4/5/2021,2,3099,1,353,2,2
+57,Lighthouse,Galle,5/5/2021,2,3225,1,340,2,2
+57,Lighthouse,Galle,6/5/2021,2,3294,1,622,2,2
+57,Lighthouse,Galle,7/5/2021,2,3406,1,410,2,2
+57,Lighthouse,Galle,8/5/2021,2,3464,1,290,1,2
+57,Lighthouse,Galle,9/5/2021,2,3567,1,473,2,2
+57,Lighthouse,Galle,10/5/2021,2,3661,1,529,2,2
+57,Lighthouse,Galle,11/5/2021,2,3779,1,340,2,2
+57,Lighthouse,Galle,12/5/2021,2,3907,1,642,2,2
+57,Lighthouse,Galle,13/5/2021,2,3941,1,345,2,2
+58,Hela Vilaa,Ratnapura,4/5/2021,2,3321,1,285,1,2
+58,Hela Vilaa,Ratnapura,5/5/2021,2,3365,1,100,0,2
+58,Hela Vilaa,Ratnapura,6/5/2021,2,3372,1,410,2,2
+58,Hela Vilaa,Ratnapura,7/5/2021,2,3402,1,290,1,2
+58,Hela Vilaa,Ratnapura,8/5/2021,2,3481,1,353,2,2
+58,Hela Vilaa,Ratnapura,9/5/2021,2,3570,1,200,1,2
+58,Hela Vilaa,Ratnapura,10/5/2021,2,3908,1,473,2,2
+58,Hela Vilaa,Ratnapura,11/5/2021,2,4069,1,340,2,2
+58,Hela Vilaa,Ratnapura,12/5/2021,2,4137,1,582,2,2
+58,Hela Vilaa,Ratnapura,13/5/2021,2,4174,1,550,2,2
+59,Shanaya,Matara,4/5/2021,1,102,0,410,1,1
+59,Shanaya,Matara,5/5/2021,0,41,0,290,1,0
+59,Shanaya,Matara,6/5/2021,0,17,0,250,0,0
+59,Shanaya,Matara,7/5/2021,0,84,0,450,1,0
+59,Shanaya,Matara,8/5/2021,1,488,0,236,0,1
+59,Shanaya,Matara,9/5/2021,2,829,0,285,1,2
+59,Shanaya,Matara,10/5/2021,1,360,0,198,0,1
+59,Shanaya,Matara,11/5/2021,2,580,0,100,0,2
+59,Shanaya,Matara,12/5/2021,1,240,0,200,0,1
+59,Shanaya,Matara,13/5/2021,2,690,0,285,1,2
+60,Tecla Villa,Trincomalee,4/5/2021,0,20,1,400,2,1
+60,Tecla Villa,Trincomalee,5/5/2021,0,20,1,432,2,1
+60,Tecla Villa,Trincomalee,6/5/2021,0,0,1,190,1,1
+60,Tecla Villa,Trincomalee,7/5/2021,1,125,1,370,2,2
+60,Tecla Villa,Trincomalee,8/5/2021,0,42,1,209,1,0
+60,Tecla Villa,Trincomalee,9/5/2021,1,377,1,450,2,2
+60,Tecla Villa,Trincomalee,10/5/2021,1,460,1,245,1,1
+60,Tecla Villa,Trincomalee,11/5/2021,1,160,1,655,2,2
+60,Tecla Villa,Trincomalee,12/5/2021,1,180,1,388,2,2
+60,Tecla Villa,Trincomalee,13/5/2021,1,290,1,353,2,2
+61,Hotel Emaa,Monaragala,4/5/2021,2,1073,1,200,1,2
+61,Hotel Emaa,Monaragala,5/5/2021,2,1109,1,473,2,2
+61,Hotel Emaa,Monaragala,6/5/2021,2,1137,1,77,0,2
+61,Hotel Emaa,Monaragala,7/5/2021,2,1147,1,582,2,2
+61,Hotel Emaa,Monaragala,8/5/2021,2,1207,1,550,2,2
+61,Hotel Emaa,Monaragala,9/5/2021,2,1238,1,40,0,2
+61,Hotel Emaa,Monaragala,10/5/2021,2,1257,1,290,1,2
+61,Hotel Emaa,Monaragala,11/5/2021,2,1358,1,285,1,2
+61,Hotel Emaa,Monaragala,12/5/2021,2,1399,1,353,2,2
+61,Hotel Emaa,Monaragala,13/5/2021,2,1512,1,340,2,2
+62,Villa Sewi,Polonnaruwa,4/5/2021,1,338,0,622,2,2
+62,Villa Sewi,Polonnaruwa,5/5/2021,1,353,0,410,1,1
+62,Villa Sewi,Polonnaruwa,6/5/2021,1,388,0,290,1,1
+62,Villa Sewi,Polonnaruwa,7/5/2021,1,446,0,446,1,1
+62,Villa Sewi,Polonnaruwa,8/5/2021,2,501,0,278,1,2
+62,Villa Sewi,Polonnaruwa,9/5/2021,1,458,0,598,2,2
+62,Villa Sewi,Polonnaruwa,10/5/2021,1,459,0,381,1,1
+62,Villa Sewi,Polonnaruwa,11/5/2021,1,496,0,374,1,1
+62,Villa Sewi,Polonnaruwa,12/5/2021,2,542,0,652,2,2
+62,Villa Sewi,Polonnaruwa,13/5/2021,2,544,0,387,1,2
+63,Lalitha Hotel,Galle,4/5/2021,2,3099,0,545,2,2
+63,Lalitha Hotel,Galle,5/5/2021,2,3225,0,645,2,2
+63,Lalitha Hotel,Galle,6/5/2021,2,3294,0,375,1,2
+63,Lalitha Hotel,Galle,7/5/2021,2,3406,0,150,0,2
+63,Lalitha Hotel,Galle,8/5/2021,2,3464,0,190,0,2
+63,Lalitha Hotel,Galle,9/5/2021,2,3567,0,250,0,2
+63,Lalitha Hotel,Galle,10/5/2021,2,3661,0,400,1,2
+63,Lalitha Hotel,Galle,11/5/2021,2,3779,0,50,0,2
+63,Lalitha Hotel,Galle,12/5/2021,2,3907,0,90,0,2
+63,Lalitha Hotel,Galle,13/5/2021,2,3941,0,260,1,2
+64,Hesi Hotel,Colombo,4/5/2021,1,430,1,500,2,2
+64,Hesi Hotel,Colombo,5/5/2021,1,319,1,450,2,2
+64,Hesi Hotel,Colombo,6/5/2021,1,347,1,170,1,1
+64,Hesi Hotel,Colombo,7/5/2021,1,250,1,324,2,2
+64,Hesi Hotel,Colombo,8/5/2021,1,403,1,350,2,2
+64,Hesi Hotel,Colombo,9/5/2021,1,334,1,532,2,2
+64,Hesi Hotel,Colombo,10/5/2021,1,310,1,245,1,1
+64,Hesi Hotel,Colombo,11/5/2021,2,1511,1,80,0,2
+64,Hesi Hotel,Colombo,12/5/2021,2,3758,1,388,2,2
+64,Hesi Hotel,Colombo,13/5/2021,2,4158,1,353,2,2
